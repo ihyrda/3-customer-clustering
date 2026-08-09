@@ -73,5 +73,5 @@ Every K-means fit uses the notebook exercise's `k-means++` initialization and `r
 
 ## Links
 
-- GitHub repository: _to be added after upload_
-- Deployed Streamlit app: _to be added after deployment_
+- GitHub repository: https://github.com/ihyrda/3-customer-clustering
+- Deployed Streamlit app: https://3-customer-clustering-ihyrda.streamlit.app/
